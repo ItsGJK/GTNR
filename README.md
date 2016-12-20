@@ -6,7 +6,7 @@ I hope that soon this game will have better graphics, will (hopefully) be rewrit
 
 Q: Why start on version 0.321a?
 
-A: I've been working on this project and sharing it with my classmates through Google Drive, however I'm now making the code more public and posting it on GitHub. I feel like the version name suits the current state of the game and I will not go back to v0.1 or similar.
+A: I've been working on this project and sharing it with my classmates through Google Drive, however I'm now making the code more public and posting it on GitHub. I feel like the version name suits the current state of the game and I will not revert back to the start of versions.
 
 # What's new in v0.321a:
 *Uploaded to GitHub! Polished everything, is ready for a public release. Next version will be beta.*
