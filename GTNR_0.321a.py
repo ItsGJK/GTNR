@@ -36,6 +36,7 @@ CHANGELOGS (0.2a --> 0.3a): (THIS IS A BIG UPDATE!)
  - Added in version 0.321a: No more secrets. The world shall know what ds means. (very useless, please disregard and throw in a fire)
 
 Alpha version for this game is almost complete. Contact me if you'd like to help with graphics (in python3, please. I don't want to switch to a different language. (no html, js, etc.)
+
 '''
 
 
