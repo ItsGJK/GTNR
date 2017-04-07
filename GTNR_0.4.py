@@ -1,6 +1,6 @@
 '''
 Gabe the Needy Robot v0.4
-*This code is optimized for Python Ver 3.5.2 (tested & works in 3)
+*This code is optimized for Python Ver 3.5.2
 
 Welcome to Gabe the Needy Robot! This code was created by Gabriel
 CONTACT: https://github.com/ItsGJK/GTNR (please all requests etc. through github)
@@ -99,7 +99,7 @@ while True: #All functions reset when Gabe dies and game restarts
             sick = sick + 2
             ds=1
             print("Gabe has contracted a major disease. Sickness is now %s" % (sick))
-        chance1 = random.randint(1,2)
+        chance1 = random.randint(1,3)
         if chance1 == 1:
             hungry = hungry + 1
             ds=1
