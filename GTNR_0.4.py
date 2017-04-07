@@ -1,6 +1,6 @@
 '''
 Gabe the Needy Robot v0.4
-*This code is optimized for Python Ver 3.5.2
+*This code is optimized for Python Ver 3.5.2 (tested & works in 3)
 
 Welcome to Gabe the Needy Robot! This code was created by Gabriel
 CONTACT: https://github.com/ItsGJK/GTNR (please all requests etc. through github)
