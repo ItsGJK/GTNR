@@ -8,7 +8,7 @@ Q: Why start on version 0.321a?
 
 A: I've been working on this project and sharing it with my classmates through Google Drive, however I'm now making the code more public and posting it on GitHub. I feel like the version name suits the current state of the game and I will not revert back to the start of versions.
 
-# What's new in v0.321a:
+# What's new in v0.4:
 I've balanced all of Gabe's stats. Honestly, who gets sick as often as he does?
 
  - Sickness isn't that annoying, but beware! Gabe's gonna get hungry. Tired. Sad.
